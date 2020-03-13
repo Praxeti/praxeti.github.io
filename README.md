@@ -1,3 +1,2 @@
 # praxeti.github.io
-
-# hello there i am cool cool
+hello there i am cool cool
